@@ -6,4 +6,4 @@
   * npm install
   * npm test
 * The output in the terminal should show something like this:
-![all tests passed](image.png)
+  * ![all tests passed](image.png)
